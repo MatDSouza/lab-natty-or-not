@@ -35,8 +35,9 @@ Imaginei a mim mesmo como rei, imaginei o cenário , os objetos, as cores.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-![Imagem do WhatsApp de 2024-04-03 à(s) 20 06 18_81020e84](https://github.com/MatDSouza/lab-natty-or-not/assets/109558887/b1dda59d-4416-4de0-af28-c00a3c654fcf)
 
+
+![OIG3](https://github.com/MatDSouza/lab-natty-or-not/assets/109558887/2ff1fdad-0cf5-42b9-8eff-d5a06845b2f5)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.

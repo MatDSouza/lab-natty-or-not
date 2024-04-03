@@ -20,23 +20,28 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Mateus the King
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Construindo eu mesmo como rei em uma história fictícia
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+BING, Leonard IA
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+Imaginei a mim mesmo como rei, imaginei o cenário , os objetos, as cores.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+![Imagem do WhatsApp de 2024-04-03 à(s) 20 06 18_81020e84](https://github.com/MatDSouza/lab-natty-or-not/assets/109558887/b1dda59d-4416-4de0-af28-c00a3c654fcf)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
+Criar algo natty se torna uma desafio divertido, uma vez que exige de você a utilizar a criatividade.
 
 ### Exemplos e Insigths
 
